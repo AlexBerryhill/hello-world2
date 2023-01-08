@@ -6,8 +6,6 @@ In this program you run it and it will play "hello world".
 
 I have created this program to start off my portfolio.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/1UxK57JkX8Y)
 
 # Development Environment
