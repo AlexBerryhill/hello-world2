@@ -8,16 +8,15 @@ I have created this program to start off my portfolio.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1UxK57JkX8Y)
 
 # Development Environment
 
 I am using VS Code to develop software.
 
-The programming language is C++, It might be considered difficult, but it is fast.
+The programming language is C++, It might be considered difficult, but it is fast and well used in the field of embedded systems.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [How to use C++ in VS Code](https://code.visualstudio.com/docs/cpp/config-msvc)
+* [How to print in C++](https://www.udacity.com/blog/2021/05/how-to-print-in-cpp.html)
